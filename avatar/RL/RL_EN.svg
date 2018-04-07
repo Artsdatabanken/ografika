@@ -1,0 +1,23 @@
+<svg width="26" height="26" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>R&#195;&#184;dliste: EN 24</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1295 1982)">
+<g id="R&#195;&#184;dliste: EN 24">
+<g id="R&#195;&#184;dliste: EN 24">
+<g id="avatar">
+<use xlink:href="#path0_fill" transform="translate(1296 -1981)" fill="#D4131B"/>
+<use xlink:href="#path1_stroke" transform="translate(1296 -1981)" fill="#231F20" fill-opacity="0.1"/>
+</g>
+<g id="EN">
+<use xlink:href="#path2_fill" transform="translate(1296 -1981)" fill="#EBEBEB"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 12 24C 18.6274 24 24 18.6274 24 12C 24 5.37258 18.6274 0 12 0C 5.37258 0 0 5.37258 0 12C 0 18.6274 5.37258 24 12 24Z"/>
+<path id="path1_stroke" d="M 12 24.5C 18.9036 24.5 24.5 18.9036 24.5 12L 23.5 12C 23.5 18.3513 18.3513 23.5 12 23.5L 12 24.5ZM 24.5 12C 24.5 5.09644 18.9036 -0.5 12 -0.5L 12 0.5C 18.3513 0.5 23.5 5.64873 23.5 12L 24.5 12ZM 12 -0.5C 5.09644 -0.5 -0.5 5.09644 -0.5 12L 0.5 12C 0.5 5.64873 5.64873 0.5 12 0.5L 12 -0.5ZM -0.5 12C -0.5 18.9036 5.09644 24.5 12 24.5L 12 23.5C 5.64873 23.5 0.5 18.3513 0.5 12L -0.5 12Z"/>
+<path id="path2_fill" d="M 10.2012 12.1914L 6.69727 12.1914L 6.69727 14.8164L 10.793 14.8164L 10.793 16L 5.21484 16L 5.21484 7.46875L 10.752 7.46875L 10.752 8.66406L 6.69727 8.66406L 6.69727 11.0195L 10.2012 11.0195L 10.2012 12.1914ZM 18.7676 16L 17.2852 16L 13.4824 9.94727L 13.4824 16L 12 16L 12 7.46875L 13.4824 7.46875L 17.2969 13.5449L 17.2969 7.46875L 18.7676 7.46875L 18.7676 16Z"/>
+</defs>
+</svg>
+

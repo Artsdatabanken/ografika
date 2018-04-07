@@ -1,0 +1,38 @@
+<svg width="40" height="40" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Icon 40 Naturomr&#195;&#165;de</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(176 -446)">
+<g id="Icon 40 Naturomr&#195;&#165;de">
+<g id="Chip ">
+<mask id="mask0_outline" mask-type="alpha">
+<g id="mask">
+<use xlink:href="#path0_fill" transform="translate(-176 446)" fill="#FFFFFF"/>
+<use xlink:href="#path1_stroke" transform="translate(-176 446)" fill="#FFFFFF"/>
+</g>
+</mask>
+<g id="mask" mask="url(#mask0_outline)">
+<use xlink:href="#path2_fill" transform="translate(-174.75 447.25)" fill="#6FCF97"/>
+<use xlink:href="#path3_stroke" transform="translate(-174.75 447.25)" fill="#231F20" fill-opacity="0.1"/>
+</g>
+</g>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -165 453L -147 453L -147 478L -165 478L -165 453Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="icon nature" clip-path="url(#clip-0)">
+<g id="nature_24px">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="translate(-165 453)" fill="#5E5E5E"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 20 40C 31.0457 40 40 31.0457 40 20C 40 8.9543 31.0457 0 20 0C 8.9543 0 0 8.9543 0 20C 0 31.0457 8.9543 40 20 40Z"/>
+<path id="path1_stroke" d="M 20 40.5C 31.3218 40.5 40.5 31.3218 40.5 20L 39.5 20C 39.5 30.7696 30.7696 39.5 20 39.5L 20 40.5ZM 40.5 20C 40.5 8.67816 31.3218 -0.5 20 -0.5L 20 0.5C 30.7696 0.5 39.5 9.23045 39.5 20L 40.5 20ZM 20 -0.5C 8.67816 -0.5 -0.5 8.67816 -0.5 20L 0.5 20C 0.5 9.23045 9.23045 0.5 20 0.5L 20 -0.5ZM -0.5 20C -0.5 31.3218 8.67816 40.5 20 40.5L 20 39.5C 9.23045 39.5 0.5 30.7696 0.5 20L -0.5 20Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 18.825 37.65C 29.2218 37.65 37.65 29.2218 37.65 18.825C 37.65 8.42824 29.2218 0 18.825 0C 8.42824 0 0 8.42824 0 18.825C 0 29.2218 8.42824 37.65 18.825 37.65Z"/>
+<path id="path3_stroke" d="M 18.825 38.15C 29.4979 38.15 38.15 29.4979 38.15 18.825L 37.15 18.825C 37.15 28.9456 28.9456 37.15 18.825 37.15L 18.825 38.15ZM 38.15 18.825C 38.15 8.1521 29.4979 -0.5 18.825 -0.5L 18.825 0.5C 28.9456 0.5 37.15 8.70438 37.15 18.825L 38.15 18.825ZM 18.825 -0.5C 8.1521 -0.5 -0.5 8.1521 -0.5 18.825L 0.5 18.825C 0.5 8.70438 8.70438 0.5 18.825 0.5L 18.825 -0.5ZM -0.5 18.825C -0.5 29.4979 8.1521 38.15 18.825 38.15L 18.825 37.15C 8.70438 37.15 0.5 28.9456 0.5 18.825L -0.5 18.825Z"/>
+<path id="path4_fill" d="M 10.1623 17.587C 14.5702 17.0701 18 13.351 18 8.82501C 18 3.94604 14.024 9.6185e-08 9.10797 9.6185e-08C 4.19196 9.6185e-08 0.215949 3.94604 0.215949 8.82501C 0.215949 13.1997 3.41708 16.818 7.62174 17.5113L 7.62174 22.4786L 0 22.4786L 0 25L 17.784 25L 17.784 22.4786L 10.1623 22.4786L 10.1623 17.587Z"/>
+</defs>
+</svg>
+
