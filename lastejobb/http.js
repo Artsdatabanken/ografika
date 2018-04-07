@@ -26,7 +26,8 @@ async function downloadJson2File(url, targetFile) {
 
 async function downloadBinary2File(url, targetFile) {
   log.info('Download binary ' + url)
-  const response = await fetch(url).then()
+  const response = await fetch(url)
+  log.warn(res.headers.get('content-type'))
   const buffer = await response.buffer()
   io.writeBinary(targetFile, buffer)
 }

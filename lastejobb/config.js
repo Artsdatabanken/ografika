@@ -3,14 +3,16 @@ if (!process.env.DEBUG) process.env.DEBUG = '*'
 const config = {
   kildeDataPath: './kildedata/',
   datafil: {
-    våpenskjold_meta: '../data/våpenskjold_meta.json'
+    våpenskjold_meta: '../../data/våpenskjold_meta.json',
+    nin_foto: '../../data/NA_foto.json'
   },
   imagePath: {
     avatar: '../avatar',
     omslag: '../omslag'
   },
   prefix: {
-    administrativtOmråde: 'AO'
+    administrativtOmråde: 'AO',
+    natursystem: 'NA'
   },
   cachePath: '../cache',
   dataPath: '../data',
